@@ -368,10 +368,12 @@ a.simpleCart_empty {
 	top: -15%;
 	left: 22%;
 }
+
+
 .ordering-section-grid-process i.one{
 	width:65px;
 	height:65px;
-	background: url("../images/img-sprite.png") no-repeat 0px 0px;
+/**	background: url("../images/img-sprite.png") no-repeat 0px 0px;**/
 	display: inline-block;
 }
 .ordering-section-grid:hover i.one,.ordering-section-grid:hover i.two,
@@ -388,25 +390,25 @@ a.simpleCart_empty {
 .ordering-section-grid-process i.two{
 	width:65px;
 	height:65px;
-	background: url("../images/img-sprite.png") no-repeat -65px 0px;
+/**	background: url("../images/img-sprite.png") no-repeat -65px 0px;**/
 	display: inline-block;
 }
 .ordering-section-grid-process i.three{
 	width:65px;
 	height:65px;
-	background: url("../images/img-sprite.png") no-repeat -130px 0px;
+/**	background: url("../images/img-sprite.png") no-repeat -130px 0px;**/
 	display: inline-block;
 }
 .ordering-section-grid-process i.four{
 	width:65px;
 	height:65px;
-	background: url("../images/img-sprite.png") no-repeat -195px 0px;
+/**	background: url("../images/img-sprite.png") no-repeat -195px 0px;**/
 	display: inline-block;
 }
 .ordering-section-grid-process i.one-icon{
 	width:45px;
 	height:45px;
-	background: url("../images/img-sprite.png") no-repeat -260px 0px;
+	background: url("../images/img-sprite.png") no-repeat -305px 0px;
 	display: inline-block;
 	margin-left:0.55em;
 }
@@ -420,14 +422,14 @@ a.simpleCart_empty {
 .ordering-section-grid-process i.three-icon{
 	width:45px;
 	height:45px;
-	background: url("../images/img-sprite.png") no-repeat -350px 0px;
+	background: url("../images/img-sprite.png") no-repeat -305px 0px;
 	display: inline-block;
 	margin-left:0.75em;
 }
 .ordering-section-grid-process i.four-icon{
 	width:45px;
 	height:45px;
-	background: url("../images/img-sprite.png") no-repeat -395px 0px;
+	background: url("../images/wine_glass.png") 50% ;
 	display: inline-block;
 	margin-left:0.6em;
 }
